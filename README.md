@@ -15,6 +15,7 @@ These audio data were collected using a low cost Raspberry Pi based recorder and
 
 # Requirements and Dependencies
 * Python 3
+* [SoX](http://sox.sourceforge.net/)
 * numpy, matplotlib, scipy
 * [librosa](https://github.com/librosa/librosa)
 * [scikit-learn](http://scikit-learn.org/stable/)
